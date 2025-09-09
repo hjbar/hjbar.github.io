@@ -13,7 +13,7 @@ I enjoy sports, especially judo and football. I am also interested in chess. In 
 </p>
 
 <p style="text-align: justify;">
-For more details, check out my <a href="pdf/cv.pdf">CV</a> (last update: April 2025).
+For more details, check out my <a href="pdf/cv.pdf">CV</a> (last update: September 2025).
 </p>
 
 <br clear="all">
