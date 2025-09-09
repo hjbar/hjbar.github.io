@@ -31,14 +31,19 @@ jobs:
       - name: Cache opam
         uses: actions/cache@v4
         with:
-          path: ~/.opam
+          path: |
+            ~/.opam
+            ~/.cache/dune
+            ~/.cache/opam-download
           key: ${{ runner.os }}-opam-${{ hashFiles('**/*.opam') }}
+          restore-keys: |
+            ${{ runner.os }}-opam-
 
       - name: Install Stone (via opam)
         run: |
           opam update
           eval $(opam env)
-          opam install stone -y
+          opam install . -y
 
       - name: Build site
         run: |
