@@ -50,6 +50,9 @@ jobs:
           opam exec -- stone website
           ls -la website/site
 
+      - name: Add CNAME file
+        run: echo "hjbar.fr" > website/site/CNAME
+
       - name: Upload Pages artifact
         id: upload
         uses: actions/upload-pages-artifact@v4
