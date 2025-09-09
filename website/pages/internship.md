@@ -1,50 +1,28 @@
-<!--
-  0. Do whatever you want with this file.
--->
+## Internship
 
-<html>
-  <head>
-    <meta charset="utf-8"/>
-    <title>Hjbar - Internship</title>
-    <link href="static/style.css" type="text/css" rel="stylesheet"/>
-  </head>
-
-  <body>
-    <header>
-      <div id="logo">
-        <h1>Hjbar</h1>
-      </div>
-
-      <nav>
-        <div id="bar"><ul><li><a href="index.html">Home</a></li><li><a href="publi.html">Publications</a></li><li class="current"><a href="internship.html">Internship</a></li><li><a href="culture.html">Culture</a></li><li><a href="media.html">Media</a></li><li><a href="contact.html">Contact</a></li></ul></div>
-      </nav>
-    </header>
-
-    <section>
-      <h2 id="internship">Internship</h2>
 <p style="text-align: justify;">
 Development of a random well-typed program generator supporting polymorphism, <a href="https://www.irif.fr/">IRIF</a>, 2025.
 <br>
 Supervised by <a href="https://gallium.inria.fr/~scherer/">Gabriel Scherer</a>. See <a href="https://github.com/hjbar/stage_m1">GitHub</a> and <a href="pdf/report_m1.pdf">Report</a>.
 </p>
+
 <p style="text-align: justify;">
 Implementation of a normalizing reduction machine for the lambda calculus, <a href="https://lmf.cnrs.fr/">LMF</a>, 2024.
 <br>
 Supervised by <a href="https://public.lmf.cnrs.fr/~blsk/">Thibaut Balabonski</a>. See <a href="https://github.com/hjbar/machine_lambda_calcul.git">GitHub</a> and <a href="pdf/report_l3.pdf">Report</a>.
 </p>
-<h2 id="research-projects">Research Projects</h2>
+
+
+## Research Projects
+
 <p style="text-align: justify;">
 Study on the completion of single-relation word rewriting systems, <a href="https://www.lix.polytechnique.fr/">LIX</a>, 2025.
 <br>
 Supervised by <a href="https://www.lix.polytechnique.fr/Labo/Samuel.Mimram//">Samuel Mimram</a>. See <a href="https://github.com/hjbar/rewriting_project">GitHub</a> and <a href="pdf/report_ter_m1.pdf">Report</a>.
 </p>
+
 <p style="text-align: justify;">
 Development of a compiler producing bytecode for the WebAssembly machine, <a href="https://lmf.cnrs.fr/">LMF</a>, 2024.
 <br>
 Supervised by <a href="https://public.lmf.cnrs.fr/~blsk/">Thibaut Balabonski</a>. See <a href="https://github.com/hjbar/ter_compilation_wasm">GitHub</a> and <a href="pdf/report_ter_l3.pdf">Report</a>.
 </p>
-
-    </section>
-  </body>
-</html>
-
