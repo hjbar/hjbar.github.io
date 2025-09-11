@@ -9,12 +9,18 @@ ___
 <div style="display:flex; gap:10px; align-items:stretch;">
 
   <div style="flex:1;">
-    <img src="img/landscape_2.jpg" alt="A lake with a small boat" style="width:100%; height:100%; object-fit:cover;">
+    <img src="img/landscape_2.jpg"
+         alt="A lake with a small boat"
+         style="width:100%; height:100%; object-fit:cover;">
   </div>
 
   <div style="flex:1; display:flex; flex-direction:column; gap:10px;">
-    <img src="img/landscape_4.jpg" alt="A sunset over the beach" style="width:100%; flex:1; object-fit:cover;">
-    <img src="img/landscape_5.jpg" alt="A scenic cove" style="width:100%; flex:1; object-fit:cover;">
+    <img src="img/landscape_4.jpg"
+         alt="A sunset over the beach"
+         style="width:100%; flex:1; object-fit:cover;">
+    <img src="img/landscape_5.jpg"
+         alt="A scenic cove"
+         style="width:100%; flex:1; object-fit:cover;">
   </div>
 
 </div>
@@ -24,12 +30,18 @@ ___
 <div style="display:flex; gap:10px; align-items:stretch;">
 
   <div style="flex:1; display:flex; flex-direction:column; gap:10px;">
-    <img src="img/landscape_6.jpg" alt="A mountain view" style="width:100%; flex:1; object-fit:cover;">
-    <img src="img/landscape_1.jpg" alt="Snow-covered mountains" style="width:100%; flex:1; object-fit:cover;">
+    <img src="img/landscape_6.jpg"
+         alt="A mountain view"
+         style="width:100%; flex:1; object-fit:cover;">
+    <img src="img/landscape_1.jpg"
+         alt="Snow-covered mountains"
+         style="width:100%; flex:1; object-fit:cover;">
   </div>
 
   <div style="flex:1;">
-    <img src="img/landscape_3.jpg" alt="A river in the forest" style="width:100%; height:100%; object-fit:cover;">
+    <img src="img/landscape_3.jpg"
+         alt="A river in the forest"
+         style="width:100%; height:100%; object-fit:cover;">
   </div>
 
 </div>
@@ -38,15 +50,21 @@ ___
 
 <!-- Football -->
 
-<div style="display:flex; flex-direction:column; gap:10px;">
+<div style="display:flex; flex-direction:column; gap:10px; width:100%; box-sizing:border-box;">
 
   <div>
-    <img src="img/portugal_euro_2016.jpg" alt="Portugal winning Euro 2016" style="width:100%; height:auto; display:block;">
+    <img src="img/portugal_euro_2016.jpg"
+         alt="Portugal winning Euro 2016"
+         style="width:100%; height:auto; display:block;">
   </div>
 
   <div style="display:flex; gap:10px;">
-    <img src="img/portugal_ldn_2019.jpg" alt="Portugal winning the Nations League 2019" style="flex:1; width:100%; height:auto; object-fit:cover;">
-    <img src="img/portugal_ldn_2025.jpg" alt="Portugal winning the Nations League 2025" style="flex:1; width:100%; height:auto; object-fit:cover;">
+    <img src="img/portugal_ldn_2019.jpg"
+         alt="Portugal winning the Nations League 2019"
+         style="flex:1 1 0; min-width:0; display:block; width:100%; height:auto; object-fit:cover;">
+    <img src="img/portugal_ldn_2025.jpg"
+         alt="Portugal winning the Nations League 2025"
+         style="flex:1 1 0; min-width:0; display:block; width:100%; height:auto; object-fit:cover;">
   </div>
 
 </div>
@@ -80,12 +98,18 @@ ___
 <div style="display:flex; gap:10px; align-items:stretch;">
 
   <div style="flex:1;">
-    <img src="img/anime_1.jpg" alt="Edward Elric (Fullmetal Alchemist)" style="width:100%; height:100%; object-fit:cover;">
+    <img src="img/anime_1.jpg"
+         alt="Edward Elric (Fullmetal Alchemist)"
+         style="width:100%; height:100%; object-fit:cover;">
   </div>
 
   <div style="flex:1; display:flex; flex-direction:column; gap:10px;">
-    <img src="img/anime_2.jpg" alt="Ken 'Draken' Ryuguji (Tokyo Revengers)" style="width:100%; flex:1; object-fit:cover;">
-    <img src="img/anime_3.jpg" alt="Vash the Stampede (Trigun)" style="width:100%; flex:1; object-fit:cover;">
+    <img src="img/anime_2.jpg"
+         alt="Ken 'Draken' Ryuguji (Tokyo Revengers)"
+         style="width:100%; flex:1; object-fit:cover;">
+    <img src="img/anime_3.jpg"
+         alt="Vash the Stampede (Trigun)"
+         style="width:100%; flex:1; object-fit:cover;">
   </div>
 
 </div>
@@ -97,12 +121,18 @@ ___
 <div style="display:flex; flex-direction:column; gap:10px;">
 
   <div>
-    <img src="img/m8_fortnite_worlds.jpg" alt="Gentle Mates winning the Fortnite World Cup 2025" style="width:100%; height:auto; display:block;">
+    <img src="img/m8_fortnite_worlds.jpg"
+         alt="Gentle Mates winning the Fortnite World Cup 2025"
+         style="width:100%; height:auto; display:block;">
   </div>
 
   <div style="display:flex; gap:10px;">
-    <img src="img/m8_rl_major.jpg" alt="Gentle Mates winning Rocket League Major 1 in 2024" style="flex:1; width:100%; height:auto; object-fit:cover;">
-    <img src="img/m8_ascension.jpg" alt="Gentle Mates winning Valorant Ascension 2023" style="flex:1; width:100%; height:auto; object-fit:cover;">
+    <img src="img/m8_rl_major.jpg"
+         alt="Gentle Mates winning Rocket League Major 1 in 2024"
+         style="flex:1 1 0; min-width:0; display:block; width:100%; height:auto; object-fit:cover;">
+    <img src="img/m8_ascension.jpg"
+         alt="Gentle Mates winning Valorant Ascension 2023"
+         style="flex:1 1 0; min-width:0; display:block; width:100%; height:auto; object-fit:cover;">
   </div>
 
 </div>
