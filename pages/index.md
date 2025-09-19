@@ -1,4 +1,4 @@
-<img src="img/pp.png" alt="Profile picture" width="250" align="left">
+<img src="img/pp.png" alt="Profile picture" width="250" align="left" style="margin-right: 15px; margin-bottom: 10px;">
 
 <p style="text-align: justify;">
 I am currently a second-year student in the <a href="https://mpri-master.ens.fr/">Parisian Master of Research in Computer Science</a> at <a href="https://www.polytechnique.edu/">École Polytechnique</a>. I previously completed a double degree in Mathematics and Computer Science at <a href="https://www.universite-paris-saclay.fr/">Université Paris-Saclay</a>.

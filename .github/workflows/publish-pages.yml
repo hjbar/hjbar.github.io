@@ -47,17 +47,17 @@ jobs:
 
       - name: Build site
         run: |
-          opam exec -- stone website
-          ls -la website/site
+          opam exec -- stone
+          ls -la site
 
       - name: Add CNAME file
-        run: echo "hjbar.fr" > website/site/CNAME
+        run: echo "hjbar.fr" > site/CNAME
 
       - name: Upload Pages artifact
         id: upload
         uses: actions/upload-pages-artifact@v4
         with:
-          path: website/site/
+          path: site/
 
   deploy:
     needs: build
