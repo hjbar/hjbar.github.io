@@ -5,7 +5,7 @@ title = "Hjbar"
 #
 # This is a list of paths after processing, as they appear in site/.
 header = [ "index.html",
-           "publi.html",
+           "publications.html",
            "internship.html",
            "culture.html",
            "media.html",
@@ -18,7 +18,7 @@ header = [ "index.html",
 # separately. This is typically useful for index.html pages.
 [page_title]
 "index.html" = "Home"
-"publi.html" = "Publications"
+"publications.html" = "Publications"
 "internship.html" = "Internship"
 "culture.html" = "Culture"
 "media.html" = "Media"
