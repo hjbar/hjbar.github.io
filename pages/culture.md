@@ -34,7 +34,9 @@ I like listening to music, mainly rap, as shown by my 10 favorite albums:
 From time to time, I also attend concerts:
 </p>
 
-- Vald, La Défense Arena, 2025 (to come)
+- Sch, Stade de France, 2027 (to come)
+- Orelsan, Accor Arena (formerly Bercy), 2026 (to come)
+- Vald, La Défense Arena, 2025
 - Isha & Limsa d’Aulnay, L’Olympia, 2024  
 - Freeze Corleone, Zénith de Paris, 2023  
 - Jazzy Bazz, L’Olympia, 2023  
