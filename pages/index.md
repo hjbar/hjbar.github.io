@@ -13,7 +13,7 @@ I enjoy sports, especially judo and football. I am also interested in chess. In 
 </p>
 
 <p style="text-align: justify;">
-For more details, check out my <a href="pdf/cv.pdf">CV</a> (last update: September 2025).
+For more details, check out my <a href="pdf/cv.pdf">CV</a> (last update: March 2026).
 </p>
 
 <br clear="all">
@@ -23,6 +23,6 @@ ___
 
 <div style="display: flex; justify-content: space-between;">
   <span>Generated with <a href="https://en.wikipedia.org/wiki/OCaml">OCaml</a> using <a href="https://github.com/Armael/stone">Stone</a></span>
-  <span>Last update: September 2025</span>
+  <span>Last update: March 2026</span>
 </div>
 
