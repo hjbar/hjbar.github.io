@@ -8,6 +8,7 @@ header = [ "index.html",
            "publications.html",
            "internship.html",
            "culture.html",
+           "games/games.html",
            "media.html",
            "contact.html" ]
 
@@ -21,6 +22,7 @@ header = [ "index.html",
 "publications.html" = "Publications"
 "internship.html" = "Internship"
 "culture.html" = "Culture"
+"games/games.html" = "Games"
 "media.html" = "Media"
 "contact.html" = "Contact"
 
