@@ -1,5 +1,3 @@
-## Asteroids
-
 <style>
     body {
         display: flex;
@@ -36,9 +34,7 @@
     </script>
 </body>
 
-### Controls
-
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; margin: 20px 0;">
   <table style="text-align: center; border-collapse: collapse; width: 50%; max-width: 400px;">
     <thead>
       <tr>
@@ -63,8 +59,4 @@
   </table>
 </div>
 
-### Source Code
 
-<p style="text-align: justify;">
-Written in <a href="https://en.wikipedia.org/wiki/OCaml">OCaml</a>. You can find the source code for this game on <a href="https://github.com/hjbar/jeu_asteroids">GitHub</a>.
-</p>
