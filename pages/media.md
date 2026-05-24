@@ -126,13 +126,25 @@ ___
          style="width:100%; height:auto; display:block;">
   </div>
 
-  <div style="display:flex; gap:10px;">
-    <img src="img/esport_2.jpg"
-         alt="Gentle Mates winning Rocket League Major 1 in 2026"
-         style="flex:1 1 0; min-width:0; display:block; width:100%; height:auto; object-fit:cover;">
+</div>
+
+<br>
+
+<div style="display:flex; gap:10px; align-items:stretch;">
+
+  <div style="flex:1; display:flex; flex-direction:column; gap:10px;">
+    <img src="img/esport_7.jpg"
+         alt="Gentle Mates winning Age of Empires IV Red Bull Wololo in 2026"
+         style="width:100%; flex:1; object-fit:cover;">
     <img src="img/esport_3.jpg"
          alt="Gentle Mates winning Call of Duty Major 1 in 2026"
-         style="flex:1 1 0; min-width:0; display:block; width:100%; height:auto; object-fit:cover;">
+         style="width:100%; flex:1; object-fit:cover;">
+  </div>
+
+  <div style="flex:1;">
+    <img src="img/esport_2.jpg"
+         alt="Gentle Mates winning Rocket League Major 1 in 2026"
+         style="width:100%; height:100%; object-fit:cover;">
   </div>
 
 </div>
