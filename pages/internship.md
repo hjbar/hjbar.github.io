@@ -3,7 +3,7 @@
 <p style="text-align: justify;">
 Implementation within the Jasmin framework of a new backend for generating WebAssembly code, <a href="https://www.inria.fr/fr/centre-inria-universite-cote-azur/">INRIA Sophia Antipolis</a>, 2026.
 <br>
-Supervised by <a href="https://www-sop.inria.fr/members/Manuel.Serrano/">Manuel Serrano</a> and <a href="https://www-sop.inria.fr/members/Benjamin.Gregoire/">Benjamin Grégoire</a>.
+Supervised by <a href="https://www-sop.inria.fr/members/Manuel.Serrano/">Manuel Serrano</a> and <a href="https://www-sop.inria.fr/members/Benjamin.Gregoire/">Benjamin Grégoire</a>. See <a href="https://github.com/hjbar/jasmin/tree/wasm">GitHub</a>, the French reference <a href="pdf/report_m2_fr.pdf">Report</a> and the translated English <a href="pdf/report_m2_en.pdf">Report</a>.
 </p>
 
 <p style="text-align: justify;">
