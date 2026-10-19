@@ -1,7 +1,7 @@
 <img src="img/pp.png" alt="Profile picture" width="250" align="left" style="margin-right: 15px; margin-bottom: 10px;">
 
 <p style="text-align: justify;">
-I am currently a second-year student in the <a href="https://mpri-master.ens.fr/">Parisian Master of Research in Computer Science</a> at <a href="https://www.polytechnique.edu/">École Polytechnique</a>. I previously completed a double degree in Mathematics and Computer Science at <a href="https://www.universite-paris-saclay.fr/">Université Paris-Saclay</a>.
+I am currently a first-year PhD student in Computer Science at <a href="https://www.inria.fr/fr/centre-inria-universite-cote-azur/">Centre Inria d'Université Côté d'Azur</a>. I previously completed the <a href="https://mpri-master.ens.fr/">Parisian Master of Research in Computer Science</a> at <a href="https://www.polytechnique.edu/">École Polytechnique</a> and a double degree in Mathematics and Computer Science at <a href="https://www.universite-paris-saclay.fr/">Université Paris-Saclay</a>.
 </p>
 
 <p style="text-align: justify;">
@@ -23,6 +23,6 @@ ___
 
 <div style="display: flex; justify-content: space-between;">
   <span>Generated with <a href="https://en.wikipedia.org/wiki/OCaml">OCaml</a> using <a href="https://github.com/Armael/stone">Stone</a></span>
-  <span>Last update: April 2026</span>
+  <span>Last update: September 2026</span>
 </div>
 
